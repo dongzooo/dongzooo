@@ -16,6 +16,18 @@
   <br>
 </p>
 
+<br>
+<h3 align="center">🪄 Blog 🪄</h3>
+
+<div align="center" style="text-align:center">
+  
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dongzooo&tag=자바)](https://velog.io/@dongzooo)
+<!--   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dongzooo)](https://velog.io/@dongzooo) -->
+  
+</div>
+<br>
+
+
 <h3 align="center">🌊Me🌊  </h3>
 <p align="center">
   <a href="https://www.instagram.com/dong__zoo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/dong__zoo/"/></a>&nbsp
