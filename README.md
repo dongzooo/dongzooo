@@ -22,6 +22,7 @@
 <div align="center" style="text-align:center">
   
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dongzooo&tag=자바)](https://velog.io/@dongzooo)
+   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dongzooo&tag=블록체인&암호화폐)](https://velog.io/@dongzooo)
 <!--   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dongzooo)](https://velog.io/@dongzooo) -->
   
 </div>
