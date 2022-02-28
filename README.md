@@ -22,7 +22,7 @@
 <div align="center" style="text-align:center">
   
 
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dongzooo)](https://velog.io/@dongzooo)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dongzooo&tag=%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%94%A9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8)](https://velog.io/@dongzooo)
 <!--   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dongzooo)](https://velog.io/@dongzooo) -->
   
 <br>
