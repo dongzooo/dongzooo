@@ -25,8 +25,7 @@
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dongzooo)](https://velog.io/@dongzooo)
 <!--   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dongzooo)](https://velog.io/@dongzooo) -->
   
-</div>
-<div align="center" style="text-align:center">
+<br>
   
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dongzooo&tag=코인)](https://velog.io/@dongzooo)
    
