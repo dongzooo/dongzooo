@@ -28,7 +28,7 @@
   
 <br>
   
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dongzooo&tag=암호화폐)](https://velog.io/@dongzooo)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dongzooo&tag=DEX거래소)](https://velog.io/@dongzooo)
    
 <!--   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dongzooo)](https://velog.io/@dongzooo) -->
   
