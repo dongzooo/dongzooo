@@ -28,14 +28,27 @@
   
 <br>
   
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dongzooo&tag=DEX거래소)](https://velog.io/@dongzooo)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dongzooo&tag=블록체인)](https://velog.io/@dongzooo)
    
 <!--   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dongzooo)](https://velog.io/@dongzooo) -->
   
 </div>
+
 <br>
 
+<h3 align="center">💻 Stats 💻</h3>
+  <div align="center" style="text-align:center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongzooo&layout=compact&theme=buefy&hide_border=true" />
+    </a>
+  <br><br>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=dongzooo&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a>  &nbsp &nbsp &nbsp
+    
+   <br>
+  </div>
 
+<br><br>
 <h3 align="center">🌊Me🌊  </h3>
 <p align="center">
    <a href="https://velog.io/@dongzooo"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@dongzooo"/></a>&nbsp
