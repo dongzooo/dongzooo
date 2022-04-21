@@ -36,7 +36,7 @@
 
 <br>
 
-<h3 align="center">💻 Stats 💻</h3>
+<!-- <h3 align="center">💻 Stats 💻</h3>
   <div align="center" style="text-align:center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongzooo&layout=compact&theme=buefy&hide_border=true" />
@@ -48,7 +48,7 @@
    <br>
   </div>
 
-<br><br>
+<br><br> -->
 <h3 align="center">🌊Me🌊  </h3>
 <p align="center">
    <a href="https://velog.io/@dongzooo"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@dongzooo"/></a>&nbsp
