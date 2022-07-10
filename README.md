@@ -56,7 +56,7 @@
 <p align="center">
    <a href="https://velog.io/@dongzooo"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@dongzooo"/></a>&nbsp
   <a href="https://www.instagram.com/dong__zoo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/dong__zoo/"/></a>&nbsp
-  <a href="mailto:dongju960@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dhel48@nate.com"/></a>
+  <a href="mailto:dongju960@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dongju960@naver.com"/></a>
 </p>
 <br>
 
